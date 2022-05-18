@@ -31,12 +31,12 @@
                 <form action="?" method="post" data-ajax-form>
                     <div class="line">
                         <div class="field">
-                            <input type="text" class="form-lg" name="username" placeholder="输入用户" />
+                            <input type="text" class="form-lg" name="username" placeholder="请输入用户名" />
                         </div>
                     </div>
                     <div class="line">
                         <div class="field">
-                            <input type="password" class="form-lg" name="password" placeholder="输入密码" />
+                            <input type="password" class="form-lg" name="password" placeholder="请输入密码" />
                         </div>
                     </div>
                     @if(modstart_config('loginCaptchaEnable',false))
