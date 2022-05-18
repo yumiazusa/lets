@@ -1,1 +1,1 @@
-<?php phpinfo();?>
+<h1>lalalal</h1>
