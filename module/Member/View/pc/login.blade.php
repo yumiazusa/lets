@@ -31,7 +31,7 @@
                 <form action="?" method="post" data-ajax-form>
                     <div class="line">
                         <div class="field">
-                            <input type="text" class="form-lg" name="username" placeholder="输入对对对用户" />
+                            <input type="text" class="form-lg" name="username" placeholder="输入用户" />
                         </div>
                     </div>
                     <div class="line">
